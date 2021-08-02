@@ -1,0 +1,1 @@
+Milk,sugur,chocolate,bakingsoda ,fruit;
